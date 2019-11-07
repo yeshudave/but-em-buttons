@@ -46,7 +46,7 @@ a {
 
 .rocket {
   right: .2em;
-  transition: all .1s linear;
+  transition: all .2s linear;
 }
 
 .btn-ghost:hover,
