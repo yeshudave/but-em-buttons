@@ -4,7 +4,6 @@ html {
 
 .banner {
   background: url("../images/starfield.png") repeat #111c1c;
-
   color: #fff;
 }
 
@@ -20,7 +19,6 @@ a {
 .btn-ghost {
   color: #b4fff4;
   top: 0;
-
   border-color: #90ccc3;
   border-radius: 8px 8px 0 0;
   transition: all .2s linear;
@@ -31,10 +29,9 @@ a {
   left: -3px;
   min-height: .8em;
   width: calc(100% + 6px);
-
   border: solid 3px #90ccc3;
-  border-radius: 0 0 8px 8px;
   border-top: 0;
+  border-radius: 0 0 8px 8px;
   transition: all .2s linear;
 }
 
@@ -49,7 +46,7 @@ a {
 
 .rocket {
   right: .2em;
-  transition: all .2s linear;
+  transition: all .1s linear;
 }
 
 .btn-ghost:hover,
